@@ -22,7 +22,7 @@ function divide (a, b) {
 }
 
 function inc(n) {
- a += 1 
+ return (a += 1) 
 }
 
 
